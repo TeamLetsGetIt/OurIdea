@@ -83,7 +83,9 @@ Scope: Could start off narrow with implementing this app to college students and
     
     
 Wireframes
-// TODO: Add Wireframe Images
+![livecrowd](https://user-images.githubusercontent.com/29615839/48666889-3f630400-ea7f-11e8-9cb6-75e343c05138.png)
+
+<img src="http://g.recordit.co/9Y7uhFDHG2.gif" width=200><br>
 
 App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
