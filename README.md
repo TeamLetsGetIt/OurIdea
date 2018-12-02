@@ -84,8 +84,13 @@ Scope: Could start off narrow with implementing this app to college students and
     
 Wireframes
 ![livecrowd](https://user-images.githubusercontent.com/29615839/48666889-3f630400-ea7f-11e8-9cb6-75e343c05138.png)
-
 <img src="http://g.recordit.co/9Y7uhFDHG2.gif" width=200><br>
+### Upgraded Wireframe
+<img src="http://g.recordit.co/pKEvTPJ3v4.gif"><br>
 
 App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+![Pitch Deck Link](https://docs.google.com/presentation/d/1ggf4qPBYEGCHCdd3tEOgpqH0v4Sv7CDHzgCk0Jia8-A/edit?usp=sharing)
+
+
+
+
