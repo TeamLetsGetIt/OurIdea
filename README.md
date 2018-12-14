@@ -89,7 +89,7 @@ Wireframes
 <img src="http://g.recordit.co/pKEvTPJ3v4.gif"><br>
 
 App Pitch Presentation
-![Pitch Deck Link](https://docs.google.com/presentation/d/1ggf4qPBYEGCHCdd3tEOgpqH0v4Sv7CDHzgCk0Jia8-A/edit?usp=sharing)
+[Pitch Deck Link](https://docs.google.com/presentation/d/e/2PACX-1vRRDN2vAhUGiaZ0F-JjjFZFhFxHQzjDGY8a95Y0P0GiRBxggXzyOmcuEg3OTabg5sVuKzH-MFI7ghUS/pub?start=false&loop=false&delayms=3000)
 
 
 
